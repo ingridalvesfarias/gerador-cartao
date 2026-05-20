@@ -17,3 +17,5 @@ Um gerador de cartões de visita moderno e responsivo que permite a personaliza�
 - **JavaScript (Vanilla):** - Manipulação de eventos em tempo real (`input`).
   - Lógica de atualização dinâmica do DOM.
   - Integração com a Window Print API para exportação de arquivos.
+
+<img src="img/imagem do projeto.png" alt="imagem do projeto">

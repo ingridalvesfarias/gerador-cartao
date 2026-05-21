@@ -18,4 +18,7 @@ Um gerador de cartões de visita moderno e responsivo que permite a personaliza�
   - Lógica de atualização dinâmica do DOM.
   - Integração com a Window Print API para exportação de arquivos.
 
+## 🚀 Acesse o Projeto
+Acesse: https://gerador-cartao-six.vercel.app/
+
 <img src="img/imagem do projeto.png" alt="imagem do projeto">
